@@ -18,7 +18,10 @@ This project implements a Support Vector Machine (SVM) classifier to classify im
 Connect with Me Feel free to explore the repository, provide feedback, or connect with me for further discussions on data science, internship experiences, or any related topics. Let’s learn and grow together!
 
 Contact Information For any inquiries or collaborations, feel free to reach out:
+
 ## 🔗 Links
 
 ![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/kuldeep-yadav01
+
+email kuldeepydv01@gamil.com
 
