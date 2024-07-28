@@ -1,5 +1,5 @@
 # PRODIGY_ML__01
-RODIGY INTERNSHIP - MACHINE LEARNING
+PRODIGY INTERNSHIP - MACHINE LEARNING
 
 I would like to express my gratitude to Prodigy Infotech for providing me with the opportunity to work on these projects and for the invaluable support and guidance throughout my internship journey. Here is my approach on the tasks provided to me
 
@@ -22,6 +22,8 @@ Contact Information
 For any inquiries or collaborations, feel free to reach out:
 
 Email: kuldeepydv01@gmail.com
+
+
 LinkedIn: (https://www.linkedin.com/in/kuldeepyadav01)
 
 
