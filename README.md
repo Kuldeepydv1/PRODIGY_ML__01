@@ -22,7 +22,9 @@ Contact Information
 For any inquiries or collaborations, feel free to reach out:
 
 Email: kuldeepydv01@@gmail.com
-LinkedIn: https://www.linkedin.com/in/kuldeep-yadav-946150230
+LinkedIn: (https://www.linkedin.com/in/kuldeep-yadav01)
+
+
 
 
 
