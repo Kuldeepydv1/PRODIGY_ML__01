@@ -1,5 +1,5 @@
-# PRODIGY_ML__01
-PRODIGY INTERNSHIP - MACHINE LEARNING
+
+# PRODIGY INTERNSHIP - MACHINE LEARNING
 
 I would like to express my gratitude to Prodigy Infotech for providing me with the opportunity to work on these projects and for the invaluable support and guidance throughout my internship journey. Here is my approach on the tasks provided to me
 
@@ -15,18 +15,10 @@ TASK 3 : Cat vs Dog
 
 This project implements a Support Vector Machine (SVM) classifier to classify images of cats and dogs using the TensorFlow Datasets (TFDS) Cats vs Dogs dataset. The dataset consists of a large set of images of cats and dogs. The images are preprocessed, resized, and normalized before being fed into the SVM model. The SVM model is trained on a subset of the dataset and achieves a certain accuracy level. Finally, the trained model is tested on a sample image to demonstrate its classification capabilities. This project provides a simple yet effective example of using machine learning algorithms, specifically SVM, for image classification tasks.
 
-Connect with Me
-Feel free to explore the repository, provide feedback, or connect with me for further discussions on data science, internship experiences, or any related topics. Let's learn and grow together!
+Connect with Me Feel free to explore the repository, provide feedback, or connect with me for further discussions on data science, internship experiences, or any related topics. Let’s learn and grow together!
 
-Contact Information
-For any inquiries or collaborations, feel free to reach out:
+Contact Information For any inquiries or collaborations, feel free to reach out:
+## 🔗 Links
 
-Email: kuldeepydv01@gmail.com
-
-
-LinkedIn: (https://www.linkedin.com/in/kuldeepyadav01)
-
-
-
-
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/kuldeep-yadav01
 
