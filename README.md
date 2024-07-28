@@ -21,8 +21,8 @@ Feel free to explore the repository, provide feedback, or connect with me for fu
 Contact Information
 For any inquiries or collaborations, feel free to reach out:
 
-Email: kuldeepydv01@@gmail.com
-LinkedIn: (https://www.linkedin.com/in/kuldeep-yadav01)
+Email: kuldeepydv01@gmail.com
+LinkedIn: (https://www.linkedin.com/in/kuldeepyadav01)
 
 
 
